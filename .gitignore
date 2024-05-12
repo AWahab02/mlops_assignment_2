@@ -1,0 +1,9 @@
+/data.csv
+/myenv
+/assignment.py
+/transformed_data.csv
+/airflow-scheduler.err
+/airflow-scheduler.log
+/airflow-scheduler.out
+/airflow-scheduler.pid
+/airflow-webserver.pid

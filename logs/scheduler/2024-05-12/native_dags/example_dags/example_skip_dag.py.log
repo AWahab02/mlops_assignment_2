@@ -1,0 +1,109 @@
+[2024-05-12T20:21:15.449+0500] {processor.py:161} INFO - Started process (PID=9506) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:21:15.449+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:21:15.452+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.452+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:21:15.457+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:21:15.577+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.576+0500] {override.py:1829} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2024-05-12T20:21:15.594+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.593+0500] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2024-05-12T20:21:15.607+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.607+0500] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2024-05-12T20:21:15.608+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.608+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:21:15.616+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.615+0500] {dag.py:3118} INFO - Creating ORM DAG for example_skip_dag
+[2024-05-12T20:21:15.623+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:15.623+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:21:15.650+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.206 seconds
+[2024-05-12T20:22:22.808+0500] {processor.py:161} INFO - Started process (PID=9776) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:22:22.833+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:22:22.838+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:22.837+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:22:22.854+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:22:22.873+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:22.872+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:22:22.887+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:22.887+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:22:22.913+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2024-05-12T20:23:19.794+0500] {processor.py:161} INFO - Started process (PID=10169) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:23:19.796+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:23:19.797+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:23:19.797+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:23:19.803+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:23:19.815+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:23:19.815+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:23:19.832+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:23:19.832+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:23:19.865+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-05-12T20:24:21.879+0500] {processor.py:161} INFO - Started process (PID=10584) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:24:21.907+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:24:21.908+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:24:21.908+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:24:21.914+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:24:21.927+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:24:21.926+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:24:21.941+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:24:21.941+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:24:21.967+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2024-05-12T20:25:21.717+0500] {processor.py:161} INFO - Started process (PID=10866) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:25:21.740+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:25:21.742+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:21.741+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:25:21.747+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:25:21.759+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:21.759+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:25:21.775+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:21.775+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:25:21.801+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2024-05-12T20:26:25.058+0500] {processor.py:161} INFO - Started process (PID=11187) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:26:25.085+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:26:25.087+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:26:25.087+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:26:25.096+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:26:25.113+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:26:25.113+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:26:25.135+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:26:25.134+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:26:25.163+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.112 seconds
+[2024-05-12T20:28:17.293+0500] {processor.py:161} INFO - Started process (PID=12101) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:28:17.328+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:28:17.330+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:28:17.330+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:28:17.335+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:28:17.349+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:28:17.349+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:28:17.364+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:28:17.364+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:28:17.388+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2024-05-12T20:29:25.834+0500] {processor.py:161} INFO - Started process (PID=12425) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:29:25.855+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:29:25.857+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:29:25.857+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:29:25.863+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:29:25.876+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:29:25.876+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:29:25.894+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:29:25.894+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:29:25.918+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2024-05-12T20:31:15.514+0500] {processor.py:161} INFO - Started process (PID=13217) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:31:15.515+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:31:15.517+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:31:15.516+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:31:15.522+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:31:15.536+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:31:15.536+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:31:15.551+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:31:15.551+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:31:15.576+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2024-05-12T20:32:20.874+0500] {processor.py:161} INFO - Started process (PID=13570) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:32:20.875+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:32:20.877+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:32:20.876+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:32:20.886+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:32:20.903+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:32:20.903+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:32:20.920+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:32:20.920+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:32:20.957+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2024-05-12T20:34:57.584+0500] {processor.py:161} INFO - Started process (PID=14655) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:34:57.612+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:34:57.613+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:34:57.613+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:34:57.618+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:34:57.634+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:34:57.634+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:34:57.648+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:34:57.648+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:34:57.673+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2024-05-12T20:36:06.223+0500] {processor.py:161} INFO - Started process (PID=15027) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:36:06.271+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:36:06.272+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:36:06.271+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:36:06.277+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:36:06.290+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:36:06.290+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:36:06.303+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:36:06.303+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:36:06.327+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2024-05-12T20:37:15.526+0500] {processor.py:161} INFO - Started process (PID=15414) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:37:15.528+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:37:15.529+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:37:15.529+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:37:15.534+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:37:15.548+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:37:15.547+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:37:15.564+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:37:15.564+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:37:15.592+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-05-12T20:39:31.233+0500] {processor.py:161} INFO - Started process (PID=16479) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:39:31.235+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:39:31.236+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:39:31.236+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:39:31.242+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:39:31.258+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:39:31.257+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:39:31.273+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:39:31.273+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:39:31.301+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-05-12T20:40:39.381+0500] {processor.py:161} INFO - Started process (PID=16926) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:40:39.416+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-12T20:40:39.417+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:39.416+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:40:39.423+0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-12T20:40:39.436+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:39.436+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:40:39.450+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:39.450+0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:40:39.479+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.103 seconds

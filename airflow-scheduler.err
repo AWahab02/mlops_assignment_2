@@ -1,0 +1,37 @@
+[2024-05-12 20:27:26 +0500] [11714] [INFO] Starting gunicorn 22.0.0
+[2024-05-12 20:27:26 +0500] [11714] [INFO] Listening at: http://[::]:8793 (11714)
+[2024-05-12 20:27:26 +0500] [11714] [INFO] Using worker: sync
+[2024-05-12 20:27:26 +0500] [11715] [INFO] Booting worker with pid: 11715
+[2024-05-12 20:27:26 +0500] [11717] [INFO] Booting worker with pid: 11717
+ERROR: failed to initiate DVC - '.dvc' exists. Use `-f` to force.
+ERROR: unexpected error - : <HttpError 404 when requesting https://www.googleapis.com/drive/v2/files/1uKSuwWAjJUxzNFhkX1HF88HunkUtiCzk?fields=driveId&supportsAllDrives=true&alt=json returned "File not found: 1uKSuwWAjJUxzNFhkX1HF88HunkUtiCzk". Details: "[{'message': 'File not found: 1uKSuwWAjJUxzNFhkX1HF88HunkUtiCzk', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+
+Having any troubles? Hit us up at https://dvc.org/support, we are always happy to help!
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <awahab02@LAPTOP-DNNCGPVF.>) not allowed
+Everything up-to-date
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <awahab02@LAPTOP-DNNCGPVF.>) not allowed
+Everything up-to-date

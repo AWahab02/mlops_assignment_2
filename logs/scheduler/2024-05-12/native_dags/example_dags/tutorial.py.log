@@ -1,0 +1,179 @@
+[2024-05-12T20:20:26.123+0500] {processor.py:161} INFO - Started process (PID=9145) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:20:26.124+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:20:26.126+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.126+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:20:26.136+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:20:26.279+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.278+0500] {override.py:1829} INFO - Created Permission View: can read on DAG:tutorial
+[2024-05-12T20:20:26.295+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.295+0500] {override.py:1829} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-05-12T20:20:26.308+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.308+0500] {override.py:1829} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-05-12T20:20:26.309+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.308+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:20:26.318+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.317+0500] {dag.py:3118} INFO - Creating ORM DAG for tutorial
+[2024-05-12T20:20:26.326+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:20:26.326+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:20:26.351+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.238 seconds
+[2024-05-12T20:21:25.450+0500] {processor.py:161} INFO - Started process (PID=9546) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:21:25.453+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:21:25.455+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:25.454+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:21:25.463+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:21:25.482+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:25.482+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:21:25.519+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:21:25.519+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:21:25.583+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2024-05-12T20:22:12.501+0500] {processor.py:161} INFO - Started process (PID=9734) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:22:12.502+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:22:12.503+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:12.503+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:22:12.508+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:22:12.520+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:12.520+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:22:12.535+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:12.535+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:22:12.563+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2024-05-12T20:22:52.371+0500] {processor.py:161} INFO - Started process (PID=9933) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:22:52.375+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:22:52.377+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:52.376+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:22:52.383+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:22:52.398+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:52.397+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:22:52.418+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:22:52.418+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:22:52.445+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2024-05-12T20:23:41.758+0500] {processor.py:161} INFO - Started process (PID=10399) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:23:41.796+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:23:41.797+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:23:41.797+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:23:41.802+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:23:41.814+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:23:41.814+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:23:41.830+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:23:41.829+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:23:41.864+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.111 seconds
+[2024-05-12T20:24:24.196+0500] {processor.py:161} INFO - Started process (PID=10592) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:24:24.198+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:24:24.199+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:24:24.199+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:24:24.203+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:24:24.216+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:24:24.216+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:24:24.231+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:24:24.231+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:24:24.257+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2024-05-12T20:25:02.487+0500] {processor.py:161} INFO - Started process (PID=10775) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:25:02.520+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:25:02.521+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:02.521+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:25:02.526+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:25:02.539+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:02.539+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:25:02.555+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:02.555+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:25:02.580+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2024-05-12T20:25:44.334+0500] {processor.py:161} INFO - Started process (PID=11018) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:25:44.366+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:25:44.367+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:44.367+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:25:44.372+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:25:44.384+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:44.384+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:25:44.400+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:25:44.400+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:25:44.425+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2024-05-12T20:26:27.063+0500] {processor.py:161} INFO - Started process (PID=11195) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:26:27.064+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:26:27.066+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:26:27.065+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:26:27.071+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:26:27.084+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:26:27.084+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:26:27.100+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:26:27.100+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:26:27.125+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2024-05-12T20:27:09.963+0500] {processor.py:161} INFO - Started process (PID=11571) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:27:10.007+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:27:10.008+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:27:10.008+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:27:10.013+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:27:10.026+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:27:10.026+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:27:10.041+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:27:10.040+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:27:10.066+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2024-05-12T20:27:36.524+0500] {processor.py:161} INFO - Started process (PID=11811) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:27:36.526+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:27:36.527+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:27:36.527+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:27:36.533+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:27:36.554+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:27:36.553+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:27:36.589+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:27:36.589+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:27:36.639+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.119 seconds
+[2024-05-12T20:28:27.524+0500] {processor.py:161} INFO - Started process (PID=12150) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:28:27.526+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:28:27.528+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:28:27.528+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:28:27.532+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:28:27.544+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:28:27.544+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:28:27.560+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:28:27.559+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:28:27.585+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2024-05-12T20:29:13.905+0500] {processor.py:161} INFO - Started process (PID=12371) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:29:13.906+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:29:13.908+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:29:13.908+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:29:13.913+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:29:13.925+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:29:13.925+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:29:13.939+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:29:13.939+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:29:13.966+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2024-05-12T20:30:00.332+0500] {processor.py:161} INFO - Started process (PID=12695) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:30:00.374+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:30:00.376+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:30:00.375+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:30:00.380+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:30:00.393+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:30:00.393+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:30:00.408+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:30:00.408+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:30:00.431+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2024-05-12T20:30:44.746+0500] {processor.py:161} INFO - Started process (PID=13074) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:30:44.747+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:30:44.748+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:30:44.748+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:30:44.753+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:30:44.765+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:30:44.765+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:30:44.782+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:30:44.782+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:30:44.807+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2024-05-12T20:31:26.717+0500] {processor.py:161} INFO - Started process (PID=13276) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:31:26.718+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:31:26.720+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:31:26.720+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:31:26.726+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:31:26.742+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:31:26.741+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:31:26.759+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:31:26.759+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:31:26.788+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2024-05-12T20:32:08.533+0500] {processor.py:161} INFO - Started process (PID=13458) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:32:08.534+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:32:08.537+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:32:08.536+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:32:08.541+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:32:08.553+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:32:08.553+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:32:08.571+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:32:08.571+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:32:08.608+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2024-05-12T20:34:17.391+0500] {processor.py:161} INFO - Started process (PID=14466) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:34:17.392+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:34:17.393+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:34:17.393+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:34:17.400+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:34:17.418+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:34:17.417+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:34:17.431+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:34:17.431+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:34:17.456+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2024-05-12T20:35:09.217+0500] {processor.py:161} INFO - Started process (PID=14740) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:35:09.249+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:35:09.249+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:35:09.249+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:35:09.255+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:35:09.268+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:35:09.267+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:35:09.283+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:35:09.282+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:35:09.308+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2024-05-12T20:35:53.554+0500] {processor.py:161} INFO - Started process (PID=14967) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:35:53.590+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:35:53.591+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:35:53.591+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:35:53.597+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:35:53.608+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:35:53.608+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:35:53.623+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:35:53.623+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:35:53.666+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.120 seconds
+[2024-05-12T20:36:41.371+0500] {processor.py:161} INFO - Started process (PID=15209) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:36:41.396+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:36:41.397+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:36:41.396+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:36:41.402+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:36:41.414+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:36:41.413+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:36:41.427+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:36:41.427+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:36:41.451+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.085 seconds
+[2024-05-12T20:38:50.908+0500] {processor.py:161} INFO - Started process (PID=16290) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:38:50.910+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:38:50.911+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:38:50.911+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:38:50.918+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:38:50.937+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:38:50.936+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:38:50.950+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:38:50.949+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:38:50.974+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2024-05-12T20:39:42.747+0500] {processor.py:161} INFO - Started process (PID=16564) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:39:42.772+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:39:42.773+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:39:42.772+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:39:42.778+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:39:42.790+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:39:42.789+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:39:42.803+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:39:42.803+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:39:42.828+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2024-05-12T20:40:27.192+0500] {processor.py:161} INFO - Started process (PID=16863) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:40:27.193+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:40:27.193+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:27.193+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:40:27.199+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:40:27.210+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:27.210+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:40:27.224+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:27.224+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:40:27.250+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2024-05-12T20:41:13.431+0500] {processor.py:161} INFO - Started process (PID=17173) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:41:13.464+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-12T20:41:13.465+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:13.464+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:41:13.470+0500] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-12T20:41:13.483+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:13.483+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:41:13.502+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:13.502+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:41:13.528+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
