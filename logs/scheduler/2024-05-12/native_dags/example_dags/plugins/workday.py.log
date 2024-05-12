@@ -124,3 +124,27 @@
 [2024-05-12T20:40:43.399+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:43.399+0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
 [2024-05-12T20:40:43.400+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
 [2024-05-12T20:40:43.408+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-05-12T20:41:27.464+0500] {processor.py:161} INFO - Started process (PID=17258) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:41:27.499+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-12T20:41:27.500+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:27.500+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:41:27.503+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:27.503+0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-05-12T20:41:27.503+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:41:27.511+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.054 seconds
+[2024-05-12T20:42:13.946+0500] {processor.py:161} INFO - Started process (PID=17569) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:42:13.975+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-12T20:42:13.976+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:13.975+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:42:13.978+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:13.978+0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-05-12T20:42:13.978+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:42:13.987+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.047 seconds
+[2024-05-12T20:42:57.433+0500] {processor.py:161} INFO - Started process (PID=17882) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:42:57.434+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-12T20:42:57.435+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:57.435+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:42:57.440+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:57.439+0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-05-12T20:42:57.440+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:42:57.451+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-05-12T20:43:44.077+0500] {processor.py:161} INFO - Started process (PID=18166) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:43:44.111+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-12T20:43:44.112+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:44.111+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:43:44.114+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:44.114+0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-05-12T20:43:44.114+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-12T20:43:44.122+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.051 seconds

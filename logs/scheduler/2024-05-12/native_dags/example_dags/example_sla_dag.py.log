@@ -170,3 +170,24 @@
 [2024-05-12T20:41:16.819+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:16.819+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:16.835+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:16.835+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2024-05-12 15:38:00+00:00, run_after=2024-05-12 15:40:00+00:00
 [2024-05-12T20:41:16.862+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.117 seconds
+[2024-05-12T20:42:00.193+0500] {processor.py:161} INFO - Started process (PID=17470) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:42:00.194+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-05-12T20:42:00.195+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:00.195+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:42:00.203+0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:42:00.215+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:00.214+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:00.230+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:00.230+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2024-05-12 15:40:00+00:00, run_after=2024-05-12 15:42:00+00:00
+[2024-05-12T20:42:00.255+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2024-05-12T20:42:45.308+0500] {processor.py:161} INFO - Started process (PID=17798) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:42:45.331+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-05-12T20:42:45.332+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:45.331+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:42:45.340+0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:42:45.354+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:45.354+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:45.371+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:45.371+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2024-05-12 15:40:00+00:00, run_after=2024-05-12 15:42:00+00:00
+[2024-05-12T20:42:45.396+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.093 seconds
+[2024-05-12T20:43:29.806+0500] {processor.py:161} INFO - Started process (PID=18097) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:43:29.807+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-05-12T20:43:29.808+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:29.808+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:43:29.815+0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-12T20:43:29.827+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:29.827+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:29.843+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:29.843+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2024-05-12 15:40:00+00:00, run_after=2024-05-12 15:42:00+00:00
+[2024-05-12T20:43:29.873+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.072 seconds

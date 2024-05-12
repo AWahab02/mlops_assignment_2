@@ -128,3 +128,17 @@
 [2024-05-12T20:41:01.133+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:01.132+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:01.141+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:01.141+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
 [2024-05-12T20:41:01.167+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.067 seconds
+[2024-05-12T20:42:06.321+0500] {processor.py:161} INFO - Started process (PID=17516) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-12T20:42:06.375+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-05-12T20:42:06.376+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:06.375+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-12T20:42:06.384+0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-12T20:42:06.400+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:06.400+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:06.409+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:06.409+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-05-12T20:42:06.434+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.119 seconds
+[2024-05-12T20:43:14.175+0500] {processor.py:161} INFO - Started process (PID=18028) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-12T20:43:14.197+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-05-12T20:43:14.198+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:14.198+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-12T20:43:14.209+0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-12T20:43:14.226+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:14.226+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:14.237+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:14.236+0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-05-12T20:43:14.265+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds

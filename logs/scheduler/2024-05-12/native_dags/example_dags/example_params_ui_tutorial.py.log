@@ -149,3 +149,31 @@
 [2024-05-12T20:40:44.886+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:44.886+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:40:44.895+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:44.895+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
 [2024-05-12T20:40:44.920+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.091 seconds
+[2024-05-12T20:41:28.982+0500] {processor.py:161} INFO - Started process (PID=17283) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:41:28.984+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-05-12T20:41:28.985+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:28.984+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:41:28.994+0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:41:29.030+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:29.030+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:41:29.039+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:29.039+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-05-12T20:41:29.093+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.117 seconds
+[2024-05-12T20:42:15.698+0500] {processor.py:161} INFO - Started process (PID=17571) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:42:15.700+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-05-12T20:42:15.701+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:15.700+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:42:15.712+0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:42:15.752+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:15.752+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:15.762+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:15.761+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-05-12T20:42:15.789+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.097 seconds
+[2024-05-12T20:42:59.757+0500] {processor.py:161} INFO - Started process (PID=17890) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:42:59.788+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-05-12T20:42:59.789+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:59.788+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:42:59.799+0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:42:59.845+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:59.845+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:59.855+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:59.855+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-05-12T20:42:59.887+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.135 seconds
+[2024-05-12T20:43:46.357+0500] {processor.py:161} INFO - Started process (PID=18174) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:43:46.359+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-05-12T20:43:46.360+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:46.360+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:43:46.369+0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-12T20:43:46.410+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:46.409+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:46.418+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:46.418+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-05-12T20:43:46.443+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.092 seconds

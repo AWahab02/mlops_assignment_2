@@ -86,3 +86,38 @@
 [2024-05-12T20:41:04.363+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:04.363+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:04.371+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:04.371+0500] {dag.py:3954} INFO - Setting next_dagrun for extract_transform_load_data_dag to None, run_after=None
 [2024-05-12T20:41:04.396+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py took 0.104 seconds
+[2024-05-12T20:41:47.248+0500] {processor.py:161} INFO - Started process (PID=17395) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:41:47.303+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py for tasks to queue
+[2024-05-12T20:41:47.304+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:47.303+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:41:47.357+0500] {processor.py:840} INFO - DAG(s) 'extract_transform_load_data_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:41:47.371+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:47.370+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:41:47.379+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:47.379+0500] {dag.py:3954} INFO - Setting next_dagrun for extract_transform_load_data_dag to None, run_after=None
+[2024-05-12T20:41:47.405+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py took 0.162 seconds
+[2024-05-12T20:42:31.195+0500] {processor.py:161} INFO - Started process (PID=17686) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:42:31.217+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py for tasks to queue
+[2024-05-12T20:42:31.218+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:31.218+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:42:31.269+0500] {processor.py:840} INFO - DAG(s) 'extract_transform_load_data_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:42:31.280+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:31.280+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:31.288+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:31.288+0500] {dag.py:3954} INFO - Setting next_dagrun for extract_transform_load_data_dag to None, run_after=None
+[2024-05-12T20:42:31.315+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py took 0.126 seconds
+[2024-05-12T20:43:17.478+0500] {processor.py:161} INFO - Started process (PID=18043) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:43:17.480+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py for tasks to queue
+[2024-05-12T20:43:17.481+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:17.480+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:43:17.548+0500] {processor.py:840} INFO - DAG(s) 'extract_transform_load_data_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:43:17.563+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:17.561+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:17.578+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:17.578+0500] {dag.py:3954} INFO - Setting next_dagrun for extract_transform_load_data_dag to None, run_after=None
+[2024-05-12T20:43:17.607+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py took 0.134 seconds
+[2024-05-12T20:44:01.883+0500] {processor.py:161} INFO - Started process (PID=18254) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:44:01.884+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py for tasks to queue
+[2024-05-12T20:44:01.885+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:01.885+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:44:01.946+0500] {processor.py:840} INFO - DAG(s) 'extract_transform_load_data_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:44:01.959+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:01.959+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:44:01.972+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:01.971+0500] {dag.py:3954} INFO - Setting next_dagrun for extract_transform_load_data_dag to None, run_after=None
+[2024-05-12T20:44:02.004+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py took 0.127 seconds
+[2024-05-12T20:45:18.622+0500] {processor.py:161} INFO - Started process (PID=18842) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:45:18.624+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py for tasks to queue
+[2024-05-12T20:45:18.625+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:45:18.624+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:45:18.680+0500] {processor.py:840} INFO - DAG(s) 'extract_transform_load_data_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py
+[2024-05-12T20:45:18.698+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:45:18.698+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:45:18.707+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:45:18.707+0500] {dag.py:3954} INFO - Setting next_dagrun for extract_transform_load_data_dag to None, run_after=None
+[2024-05-12T20:45:18.732+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py took 0.116 seconds

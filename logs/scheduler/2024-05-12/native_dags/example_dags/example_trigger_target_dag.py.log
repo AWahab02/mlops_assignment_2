@@ -177,3 +177,31 @@
 [2024-05-12T20:41:14.736+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:14.736+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:14.750+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:14.750+0500] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
 [2024-05-12T20:41:14.783+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.110 seconds
+[2024-05-12T20:41:57.319+0500] {processor.py:161} INFO - Started process (PID=17451) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:41:57.341+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-05-12T20:41:57.342+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:57.342+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:41:57.347+0500] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:41:57.359+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:57.359+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:41:57.369+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:57.369+0500] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-05-12T20:41:57.402+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2024-05-12T20:42:41.682+0500] {processor.py:161} INFO - Started process (PID=17776) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:42:41.724+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-05-12T20:42:41.725+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:41.725+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:42:41.730+0500] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:42:41.742+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:41.742+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:41.751+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:41.751+0500] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-05-12T20:42:41.775+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.098 seconds
+[2024-05-12T20:43:27.738+0500] {processor.py:161} INFO - Started process (PID=18083) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:43:27.739+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-05-12T20:43:27.740+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:27.740+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:43:27.746+0500] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:43:27.757+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:27.757+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:27.766+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:27.766+0500] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-05-12T20:43:27.792+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2024-05-12T20:44:12.363+0500] {processor.py:161} INFO - Started process (PID=18309) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:44:12.364+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-05-12T20:44:12.365+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:12.364+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:44:12.373+0500] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-05-12T20:44:12.387+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:12.387+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:44:12.396+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:12.396+0500] {dag.py:3954} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-05-12T20:44:12.423+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds

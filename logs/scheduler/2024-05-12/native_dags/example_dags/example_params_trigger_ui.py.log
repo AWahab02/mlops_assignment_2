@@ -128,3 +128,17 @@
 [2024-05-12T20:40:59.201+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:59.201+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:40:59.209+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:59.209+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
 [2024-05-12T20:40:59.234+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.089 seconds
+[2024-05-12T20:42:04.461+0500] {processor.py:161} INFO - Started process (PID=17508) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-12T20:42:04.494+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-05-12T20:42:04.495+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:04.494+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-12T20:42:04.506+0500] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-12T20:42:04.538+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:04.538+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:04.547+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:04.547+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-05-12T20:42:04.574+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.118 seconds
+[2024-05-12T20:43:12.525+0500] {processor.py:161} INFO - Started process (PID=18020) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-12T20:43:12.529+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-05-12T20:43:12.531+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:12.530+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-12T20:43:12.550+0500] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-12T20:43:12.605+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:12.605+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:12.618+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:12.618+0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-05-12T20:43:12.665+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.147 seconds

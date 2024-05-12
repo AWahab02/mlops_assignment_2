@@ -111,3 +111,38 @@
 2024-05-12 20:38:43,478 INFO - TaskInstance Finished: dag_id=extract_transform_load_data_dag, task_id=load_data, run_id=manual__2024-05-12T15:37:21.017119+00:00, map_index=-1, run_start_date=2024-05-12 15:38:31.638652+00:00, run_end_date=2024-05-12 15:38:43.138290+00:00, run_duration=11.499638, state=success, executor_state=success, try_number=1, max_tries=1, job_id=9, pool=default_pool, queue=default, priority_weight=1, operator=PythonOperator, queued_dttm=2024-05-12 15:38:29.944665+00:00, queued_by_job_id=2, pid=16049
 2024-05-12 20:38:43,681 INFO - Marking run <DagRun extract_transform_load_data_dag @ 2024-05-12 15:37:21.017119+00:00: manual__2024-05-12T15:37:21.017119+00:00, state:running, queued_at: 2024-05-12 15:37:21.039283+00:00. externally triggered: True> successful
 2024-05-12 20:38:43,681 INFO - DagRun Finished: dag_id=extract_transform_load_data_dag, execution_date=2024-05-12 15:37:21.017119+00:00, run_id=manual__2024-05-12T15:37:21.017119+00:00, run_start_date=2024-05-12 15:37:22.399947+00:00, run_end_date=2024-05-12 15:38:43.681799+00:00, run_duration=81.281852, state=success, external_trigger=True, run_type=manual, data_interval_start=2024-05-12 15:37:21.017119+00:00, data_interval_end=2024-05-12 15:37:21.017119+00:00, dag_hash=5e688a83f4f070ff9a3ce5198a9303ec
+2024-05-12 20:43:29,920 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-12 20:44:12,496 INFO - 1 tasks up for execution:
+	<TaskInstance: extract_transform_load_data_dag.extract_data manual__2024-05-12T15:44:11.738292+00:00 [scheduled]>
+2024-05-12 20:44:12,497 INFO - DAG extract_transform_load_data_dag has 0/16 running and queued tasks
+2024-05-12 20:44:12,497 INFO - Setting the following tasks to queued state:
+	<TaskInstance: extract_transform_load_data_dag.extract_data manual__2024-05-12T15:44:11.738292+00:00 [scheduled]>
+2024-05-12 20:44:12,498 INFO - Sending TaskInstanceKey(dag_id='extract_transform_load_data_dag', task_id='extract_data', run_id='manual__2024-05-12T15:44:11.738292+00:00', try_number=1, map_index=-1) to executor with priority 3 and queue default
+2024-05-12 20:44:12,499 INFO - Adding to queue: ['airflow', 'tasks', 'run', 'extract_transform_load_data_dag', 'extract_data', 'manual__2024-05-12T15:44:11.738292+00:00', '--local', '--subdir', '/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py']
+2024-05-12 20:44:12,512 INFO - Executing command: ['airflow', 'tasks', 'run', 'extract_transform_load_data_dag', 'extract_data', 'manual__2024-05-12T15:44:11.738292+00:00', '--local', '--subdir', '/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py']
+2024-05-12 20:45:18,427 INFO - Received executor event with state success for task instance TaskInstanceKey(dag_id='extract_transform_load_data_dag', task_id='extract_data', run_id='manual__2024-05-12T15:44:11.738292+00:00', try_number=1, map_index=-1)
+2024-05-12 20:45:18,430 INFO - TaskInstance Finished: dag_id=extract_transform_load_data_dag, task_id=extract_data, run_id=manual__2024-05-12T15:44:11.738292+00:00, map_index=-1, run_start_date=2024-05-12 15:44:14.592783+00:00, run_end_date=2024-05-12 15:45:18.009002+00:00, run_duration=63.416219, state=success, executor_state=success, try_number=1, max_tries=1, job_id=10, pool=default_pool, queue=default, priority_weight=3, operator=PythonOperator, queued_dttm=2024-05-12 15:44:12.497790+00:00, queued_by_job_id=2, pid=18347
+2024-05-12 20:45:18,441 ERROR - DagFileProcessorManager (PID=16001) last sent a heartbeat 65.99 seconds ago! Restarting it
+2024-05-12 20:45:18,444 INFO - Sending Signals.SIGTERM to group 16001. PIDs of all processes in the group: [16001]
+2024-05-12 20:45:18,444 INFO - Sending the signal Signals.SIGTERM to group 16001
+2024-05-12 20:45:18,537 INFO - Process psutil.Process(pid=16001, status='terminated', exitcode=0, started='20:38:26') (16001) terminated with exit code 0
+2024-05-12 20:45:18,539 INFO - Launched DagFileProcessorManager with pid: 18841
+2024-05-12 20:45:18,544 INFO - Configured default timezone UTC
+2024-05-12 20:45:18,856 INFO - 1 tasks up for execution:
+	<TaskInstance: extract_transform_load_data_dag.transform_data manual__2024-05-12T15:44:11.738292+00:00 [scheduled]>
+2024-05-12 20:45:18,856 INFO - DAG extract_transform_load_data_dag has 0/16 running and queued tasks
+2024-05-12 20:45:18,856 INFO - Setting the following tasks to queued state:
+	<TaskInstance: extract_transform_load_data_dag.transform_data manual__2024-05-12T15:44:11.738292+00:00 [scheduled]>
+2024-05-12 20:45:18,858 INFO - Sending TaskInstanceKey(dag_id='extract_transform_load_data_dag', task_id='transform_data', run_id='manual__2024-05-12T15:44:11.738292+00:00', try_number=1, map_index=-1) to executor with priority 2 and queue default
+2024-05-12 20:45:18,858 INFO - Adding to queue: ['airflow', 'tasks', 'run', 'extract_transform_load_data_dag', 'transform_data', 'manual__2024-05-12T15:44:11.738292+00:00', '--local', '--subdir', '/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py']
+2024-05-12 20:45:18,869 INFO - Executing command: ['airflow', 'tasks', 'run', 'extract_transform_load_data_dag', 'transform_data', 'manual__2024-05-12T15:44:11.738292+00:00', '--local', '--subdir', '/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py']
+2024-05-12 20:45:21,319 INFO - Received executor event with state success for task instance TaskInstanceKey(dag_id='extract_transform_load_data_dag', task_id='transform_data', run_id='manual__2024-05-12T15:44:11.738292+00:00', try_number=1, map_index=-1)
+2024-05-12 20:45:21,323 INFO - TaskInstance Finished: dag_id=extract_transform_load_data_dag, task_id=transform_data, run_id=manual__2024-05-12T15:44:11.738292+00:00, map_index=-1, run_start_date=2024-05-12 15:45:20.756199+00:00, run_end_date=2024-05-12 15:45:20.953517+00:00, run_duration=0.197318, state=success, executor_state=success, try_number=1, max_tries=1, job_id=11, pool=default_pool, queue=default, priority_weight=2, operator=PythonOperator, queued_dttm=2024-05-12 15:45:18.856968+00:00, queued_by_job_id=2, pid=18851
+2024-05-12 20:45:21,584 INFO - 1 tasks up for execution:
+	<TaskInstance: extract_transform_load_data_dag.load_data manual__2024-05-12T15:44:11.738292+00:00 [scheduled]>
+2024-05-12 20:45:21,585 INFO - DAG extract_transform_load_data_dag has 0/16 running and queued tasks
+2024-05-12 20:45:21,585 INFO - Setting the following tasks to queued state:
+	<TaskInstance: extract_transform_load_data_dag.load_data manual__2024-05-12T15:44:11.738292+00:00 [scheduled]>
+2024-05-12 20:45:21,586 INFO - Sending TaskInstanceKey(dag_id='extract_transform_load_data_dag', task_id='load_data', run_id='manual__2024-05-12T15:44:11.738292+00:00', try_number=1, map_index=-1) to executor with priority 1 and queue default
+2024-05-12 20:45:21,586 INFO - Adding to queue: ['airflow', 'tasks', 'run', 'extract_transform_load_data_dag', 'load_data', 'manual__2024-05-12T15:44:11.738292+00:00', '--local', '--subdir', '/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py']
+2024-05-12 20:45:21,598 INFO - Executing command: ['airflow', 'tasks', 'run', 'extract_transform_load_data_dag', 'load_data', 'manual__2024-05-12T15:44:11.738292+00:00', '--local', '--subdir', '/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/dagfile.py']

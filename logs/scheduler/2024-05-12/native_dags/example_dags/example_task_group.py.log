@@ -177,3 +177,24 @@
 [2024-05-12T20:41:15.156+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:15.156+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:15.171+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:15.171+0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
 [2024-05-12T20:41:15.196+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.097 seconds
+[2024-05-12T20:41:58.451+0500] {processor.py:161} INFO - Started process (PID=17462) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:41:58.482+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-05-12T20:41:58.483+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:58.483+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:41:58.489+0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:41:58.502+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:58.502+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:41:58.515+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:58.515+0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:41:58.540+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2024-05-12T20:42:42.939+0500] {processor.py:161} INFO - Started process (PID=17786) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:42:42.941+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-05-12T20:42:42.942+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:42.942+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:42:42.948+0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:42:42.961+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:42.961+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:42.974+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:42.974+0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:42:42.999+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2024-05-12T20:43:28.472+0500] {processor.py:161} INFO - Started process (PID=18086) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:43:28.473+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-05-12T20:43:28.474+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:28.474+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:43:28.480+0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-05-12T20:43:28.494+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:28.494+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:28.510+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:28.510+0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:43:28.536+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds

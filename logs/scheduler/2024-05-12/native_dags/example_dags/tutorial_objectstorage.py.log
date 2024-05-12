@@ -177,3 +177,31 @@
 [2024-05-12T20:41:11.762+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:11.762+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:11.775+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:11.775+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
 [2024-05-12T20:41:11.809+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.109 seconds
+[2024-05-12T20:41:54.332+0500] {processor.py:161} INFO - Started process (PID=17442) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:41:54.334+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-05-12T20:41:54.334+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:54.334+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:41:54.341+0500] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:41:54.353+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:54.353+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:41:54.363+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:54.362+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-05-12T20:41:54.386+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.059 seconds
+[2024-05-12T20:42:38.195+0500] {processor.py:161} INFO - Started process (PID=17742) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:42:38.197+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-05-12T20:42:38.197+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:38.197+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:42:38.205+0500] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:42:38.217+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:38.216+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:38.225+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:38.225+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-05-12T20:42:38.249+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2024-05-12T20:43:24.474+0500] {processor.py:161} INFO - Started process (PID=18068) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:43:24.476+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-05-12T20:43:24.477+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:24.476+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:43:24.483+0500] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:43:24.497+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:24.497+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:24.510+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:24.510+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-05-12T20:43:24.538+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.070 seconds
+[2024-05-12T20:44:09.478+0500] {processor.py:161} INFO - Started process (PID=18297) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:44:09.479+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-05-12T20:44:09.479+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:09.479+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:44:09.486+0500] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-05-12T20:44:09.498+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:09.498+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:44:09.507+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:44:09.506+0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-05-12T20:44:09.534+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds

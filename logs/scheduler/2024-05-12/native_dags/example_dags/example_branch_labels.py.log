@@ -120,3 +120,18 @@
 [2024-05-12T20:41:24.986+0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
 [2024-05-12T20:41:24.999+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:24.999+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:25.016+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:25.015+0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:41:25.058+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.085 seconds
+[2024-05-12T20:42:29.970+0500] {processor.py:161} INFO - Started process (PID=17673) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-05-12T20:42:29.990+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-05-12T20:42:29.991+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:29.991+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-05-12T20:42:30.007+0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-05-12T20:42:30.026+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:30.025+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:30.048+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:30.048+0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:42:30.079+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.122 seconds
+[2024-05-12T20:43:37.873+0500] {processor.py:161} INFO - Started process (PID=18130) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-05-12T20:43:37.875+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-05-12T20:43:37.875+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:37.875+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-05-12T20:43:37.882+0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-05-12T20:43:37.896+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:37.896+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:37.912+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:37.912+0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2024-05-11 00:00:00+00:00, run_after=2024-05-12 00:00:00+00:00
+[2024-05-12T20:43:37.936+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.068 seconds

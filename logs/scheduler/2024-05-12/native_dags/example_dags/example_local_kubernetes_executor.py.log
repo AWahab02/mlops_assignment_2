@@ -207,3 +207,36 @@ ModuleNotFoundError: No module named 'kubernetes'
 [2024-05-12T20:40:55.193+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:40:55.193+0500] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
 [2024-05-12T20:40:55.193+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
 [2024-05-12T20:40:55.202+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.065 seconds
+[2024-05-12T20:41:39.401+0500] {processor.py:161} INFO - Started process (PID=17347) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:41:39.420+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-05-12T20:41:39.421+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:39.421+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:41:39.426+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:39.425+0500] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-05-12T20:41:39.426+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:39.426+0500] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-05-12T20:41:39.426+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:41:39.435+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.039 seconds
+[2024-05-12T20:42:25.696+0500] {processor.py:161} INFO - Started process (PID=17643) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:42:25.712+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-05-12T20:42:25.713+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:25.713+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:42:25.715+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:25.715+0500] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-05-12T20:42:25.715+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:25.715+0500] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-05-12T20:42:25.716+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:42:25.724+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2024-05-12T20:43:30.942+0500] {processor.py:161} INFO - Started process (PID=18099) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:43:30.972+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2024-05-12T20:43:30.973+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:30.973+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:43:30.975+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:30.975+0500] {example_local_kubernetes_executor.py:40} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 38, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2024-05-12T20:43:30.976+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:30.975+0500] {example_local_kubernetes_executor.py:41} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2024-05-12T20:43:30.976+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2024-05-12T20:43:30.989+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.053 seconds

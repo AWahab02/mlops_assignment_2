@@ -121,3 +121,17 @@
 [2024-05-12T20:41:23.882+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:23.882+0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-12T20:41:23.891+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:41:23.890+0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
 [2024-05-12T20:41:23.916+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-05-12T20:42:28.730+0500] {processor.py:161} INFO - Started process (PID=17669) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-12T20:42:28.762+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-05-12T20:42:28.763+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:28.763+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-12T20:42:28.774+0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-12T20:42:28.796+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:28.796+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:42:28.806+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:42:28.806+0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-05-12T20:42:28.830+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2024-05-12T20:43:37.176+0500] {processor.py:161} INFO - Started process (PID=18129) to work on /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-12T20:43:37.199+0500] {processor.py:830} INFO - Processing file /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-05-12T20:43:37.200+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:37.199+0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-12T20:43:37.209+0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-12T20:43:37.231+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:37.231+0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-12T20:43:37.240+0500] {logging_mixin.py:188} INFO - [2024-05-12T20:43:37.240+0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-05-12T20:43:37.267+0500] {processor.py:183} INFO - Processing /home/awahab02/mlops_assignment_2/myenv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
