@@ -33,6 +33,4 @@ To use this DAG:
 4. Update the file paths and URLs as needed.
 5. Trigger the DAG manually or set up a schedule as per your requirements.
 
-## Note
-- Ensure proper permissions and credentials are configured for accessing the websites and Google Drive.
-- Customize the code according to your project requirements and environment setup.
+![image](https://github.com/AWahab02/mlops_assignment_2/assets/114500718/23300a2a-a355-482f-b779-05505951751a)
